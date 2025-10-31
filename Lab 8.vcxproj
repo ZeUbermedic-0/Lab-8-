@@ -126,7 +126,7 @@
     <ClCompile Include="cin &amp; for loop example.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Lab 8.cpp" />
+    <ClCompile Include="Lab 8 - Gas Mileage.cpp" />
     <ClCompile Include="Array &amp; Loop Example.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Lab 8.cpp">
+    <ClCompile Include="Lab 8 - Gas Mileage.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="cin &amp; for loop example.cpp">
