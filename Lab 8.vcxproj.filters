@@ -24,5 +24,8 @@
     <ClCompile Include="Array &amp; Loop Example.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Val Code.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

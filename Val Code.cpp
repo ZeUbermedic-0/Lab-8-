@@ -79,7 +79,7 @@ void CalcAverage()
     //(10)Format and display dash lines
     cout << "\n";
     cout << setw(16) << "       - - - - - - \t- - - - - -\t- - - - - -\t- - - - - -"
-        << '\n';
+         << '\n';
 
     //(11) Display detailed weekly breakdown
     for (int i = 0; i < weeks; ++i)
